@@ -1,0 +1,30 @@
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<!DOCTYPE hibernate-configuration PUBLIC-->
+<!--        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"-->
+<!--        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">-->
+
+<!--<hibernate-configuration>-->
+<!--    <session-factory>-->
+<!--        &lt;!&ndash; Database connection settings &ndash;&gt;-->
+<!--        <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>-->
+<!--        <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/postgres</property>-->
+<!--        <property name="hibernate.connection.username">postgres</property>-->
+<!--        <property name="hibernate.connection.password">Prod12</property>-->
+
+<!--        &lt;!&ndash; JDBC connection pool (optional) &ndash;&gt;-->
+<!--&lt;!&ndash;        <property name="hibernate.connection.pool_size">5</property>&ndash;&gt;-->
+
+<!--        &lt;!&ndash; SQL dialect &ndash;&gt;-->
+<!--        <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>-->
+
+<!--        &lt;!&ndash; Echo all executed SQL to stdout &ndash;&gt;-->
+<!--        <property name="hibernate.show_sql">true</property>-->
+<!--        <property name="hibernate.format_sql">true</property>-->
+
+<!--        &lt;!&ndash; Automatically create or update tables &ndash;&gt;-->
+<!--        <property name="hibernate.hbm2ddl.auto">update</property>-->
+
+<!--        &lt;!&ndash; Add annotated class &ndash;&gt;-->
+<!--&lt;!&ndash;        <mapping class="com.yourpackage.User"/>  &ndash;&gt;-->
+<!--    </session-factory>-->
+<!--</hibernate-configuration>-->
